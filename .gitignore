@@ -1,1 +1,6 @@
-/target
+/target/debug/.fingerprint/**
+/target/release/.fingerprint/**
+/target/debug/incremental/**
+/target/release/incremental/**
+/target/debug/deps/**
+/target/release/deps/**
